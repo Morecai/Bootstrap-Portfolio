@@ -23,12 +23,13 @@ h3 {
 	 font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
     color: #fff;
+    text-align: center;
 }
 
 .social {
     width: 62px;
     height: 62px;
-   
+
 }
 
 #logo {
@@ -38,6 +39,11 @@ h3 {
     margin-left: 60px;
 }
 
+.center-block {
+  color: #fff;
+  background: #4aaaa5;
+
+}
 .btn-default {
 	margin-bottom: 50px;
 }
