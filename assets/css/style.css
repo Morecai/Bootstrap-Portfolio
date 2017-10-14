@@ -14,7 +14,7 @@ h1,
 h2 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
-    color: #4aaaa5;
+    color: #1424E4;
 }
 h2 {
 	font-size: 26px;
@@ -26,6 +26,9 @@ h3 {
     text-align: center;
 }
 
+.navbar-default {
+    background-image: linear-gradient(to bottom,#1424E4 0,#222 100%);
+}
 .social {
     width: 62px;
     height: 62px;
@@ -33,15 +36,15 @@ h3 {
 }
 
 #logo {
-    color: #fff;
+    color: rgb(145, 143, 143);
     text-align: center;
-    background: #4aaaa5;
+   
     margin-left: 60px;
 }
 
 .center-block {
   color: #fff;
-  background: #4aaaa5;
+  background: #1424E4;
 
 }
 .btn-default {
@@ -53,7 +56,7 @@ h3 {
 }
 
 .caption {
-	background-color: #4aaaa5;
+	background-image: linear-gradient(to bottom,#1424E4 0,#222 100%);
 }
 
 footer {
@@ -61,5 +64,4 @@ footer {
   color: #fff;
   text-align: center;
   background: #666;
-  border-top: 8px solid #4aaaa5;
 }
